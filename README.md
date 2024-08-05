@@ -1,0 +1,1 @@
+This dataset was collected from July 1, 2023 to July 30, 2023 and consists of 2000 links to real news and 2000 links to fake news collected from YouTube to determine entertainment fake news in South Korea. 
