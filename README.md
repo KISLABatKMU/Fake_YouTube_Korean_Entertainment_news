@@ -1,7 +1,7 @@
 # Fake_YouTube_Korean_Entertainment_news
 ### ver 1.0.0
 
-This is the dataset used in the paper YouRV : A Hybrid Detection Method for YouTube Fake News Using Related Video Information. 
+This is the dataset used in the paper titled "A Hybrid Detection Method for YouTube Fake News Using Related Video Data". 
 
 The data was collected from July 1, 2023 to July 30, 2023 to identify entertainment fake news in South Korea. 
 
